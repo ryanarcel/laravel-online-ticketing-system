@@ -1,3 +1,9 @@
+<h2>What the project does</h2>
+<p>This project is a proprietery online ticketing system built on the Laravel Framework. Its intent is to sell event tickets online perticularly for the Alumni Homecoming activities of Assumption College of Davao, Philippines.</p>
+
+<h2>Why the project is useful</h2>
+<p>This project was initiated upon the start of the pandemic when face-to-face events were prohibited. Upon the decision of the seadi school of continuing the alumni Homecoming event in 2021, all matters about selling tickets were going to be done online. This aided the success of the said event. It enabled the seeling of online tickets with means to verify ticket numbers used for the raffle draw during the event.</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
